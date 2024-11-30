@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#admin,
+#salir {
+  display: block;
+  width: 130px;
+  font-weight: 400;
+  border-radius: 10px;
+  padding: 15px 30px;
+  background-color: #004a8d;
+  color: #eee;
+  text-decoration: none;
+  float: right;
+  text-align: center;
+}
+#salir {
+  background-color: rgb(208, 38, 38);
+}
+#salir:hover {
+   background-color: rgb(143, 38, 38);
+ }
+
+#admin:hover {
+  background-color: transparent;
+  border: 2px solid #004a8d;
+  color: #004a8d;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.card-image > img {
+  display: block;
+  width: 50%;
+}
+
+.card-image.is-loaded {
+  filter: none;
+  transition: filter 1s;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.card-list {
+  display: block;
+  margin: 1rem auto;
+  padding: 0;
+  font-size: 0;
+  text-align: center;
+  list-style: none;
+}
+
+.card {
+  display: inline-block;
+  width: 90%;
+  max-width: 20rem;
+  margin: 1rem;
+  font-size: 1rem;
+  text-decoration: none;
+  overflow: hidden;
+  box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, 0.5);
+  transition: transform 0.1s ease-in-out, box-shadow 0.1s;
+  border-radius: 35px;
+}
+
+.card:hover {
+  transform: translateY(-0.5rem) scale(1.0125);
+  box-shadow: 0 0.5em 3rem -1rem rgba(0, 0, 0, 0.5);
+}
+
+.card-description {
+  display: block;
+  padding: 1em 0.5em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.card-description > h2 {
+  margin: 0 0 0.5em;
+  color: white;
+}
+
+.card-description > p {
+  margin: 0;
+  color: white;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+}
+
+p {
+  color: #004a8d;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

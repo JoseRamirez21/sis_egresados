@@ -1,0 +1,108 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.container {
+  font-size: 20px;
+  margin: auto;
+  background: linear-gradient(0deg, rgba(168,169,181) 13%, rgba(81,120,160) 100%);
+  width: 700px;
+  text-align: center;
+  padding: 30px;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 520px;
+  border-radius: 25px;
+}
+
+h1,p{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 1px;
+}
+
+.aviso {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 20px;
+  outline: none;
+  margin-bottom: 5px;
+}
+
+.botones {
+  display: flex;
+  margin-top: 15px;
+}
+
+.consulta {
+  background-color: rgb(0, 74, 141);
+  width: 100%;
+  padding: 17px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.consulta:hover{
+  background-color: rgb(0, 54, 111);;
+}
+
+.acceso {
+  display: block;
+  width: 180px;
+  font-weight: 400;
+  border-radius: 10px;
+  padding: 15px 30px;
+  background-color: #004a8d;
+  color: #eee;
+  text-decoration: none;
+  float: right;
+}
+.acceso:hover {
+  background-color: transparent;
+  border-color: #004a8d;
+  color: #004a8d;
+}
+
+.input__select {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 5px;
+}
+.img-container {
+  width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+.img-container img {
+  width: 100%;
+}
+.titulo {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(52, 52, 52);
+}
+.img-container h2 {
+  font-size: 15px;
+  color: rgb(103, 103, 103);
+  font-weight: normal;
+}
+.img-container h2 span {
+  font-size: 18px;
+  color: rgb(28, 28, 28);
+  font-weight: bold;
+}
