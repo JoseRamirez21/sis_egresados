@@ -15,7 +15,7 @@ if (empty($_SESSION['id'])) {
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="../public/estilos/coordinador.css">
    <link rel="stylesheet" href="../public/estilos/estilo_coordinador.css">
-   <link rel="icon" href="../public/inicio/img/logo_tecno.png">
+   <link rel="icon" href="../public/inicio/img/logo_naza.png">
    <title>Menu Coordinador</title>
 </head>
 
@@ -89,7 +89,7 @@ of Simple CSS Waves-->
             </li>
 
          </ul><br>
-         <img src="../public/img-inicio/logo_tecno.png" width="650px" height="150px" alt=""><br><br><br>
+         <img src="../public/img-inicio/logo_naza.png" width="650px" height="150px" alt=""><br><br><br>
       </div>
       <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
          <defs>

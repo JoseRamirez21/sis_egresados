@@ -14,7 +14,7 @@ class PDF extends FPDF
       //creamos una celda o fila
       $this->Cell(150, 8, utf8_decode('INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO'), 0, 1, 'C', 0); // AnchoCelda,AltoCelda,titulo,borde(1-0),saltoLinea(1-0),posicion(L-C-R),ColorFondo(1-0)
       $this->Cell(20); // Movernos a la derecha
-      $this->Cell(150, 8, utf8_decode('"HUANTA"'), 0, 1, 'C', 0); // AnchoCelda,AltoCelda,titulo,borde(1-0),saltoLinea(1-0),posicion(L-C-R),ColorFondo(1-0)
+      $this->Cell(150, 8, utf8_decode('"EL NAZARENO"'), 0, 1, 'C', 0); // AnchoCelda,AltoCelda,titulo,borde(1-0),saltoLinea(1-0),posicion(L-C-R),ColorFondo(1-0)
       $this->SetFont('Arial', 'B', 12); //tipo fuente, negrita(B-I-U-BIU), tamañoTexto
       $this->Ln(3); // Salto de línea
       $this->Cell(20); // Movernos a la derecha

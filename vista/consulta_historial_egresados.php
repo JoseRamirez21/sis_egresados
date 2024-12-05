@@ -10,7 +10,7 @@ error_reporting(0);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../public/estilos/estilos.css">
     <link rel="stylesheet" href="../public/estilos/estilos_consulta.css">
-    <link rel="icon" href="../public/inicio/img/logo_tecno.png">
+    <link rel="icon" href="../public/inicio/img/logo_naza.png">
     <title>Consulta Historial Egresado</title>
     <!-- pNotify -->
     <link href="../public/pnotify/css/pnotify.css" rel="stylesheet" />
@@ -41,7 +41,7 @@ error_reporting(0);
     ?>
     <div class="container">
         <h1>HISTORIAL EGRESADO<br>REALICE UNA CONSULTA</h1><br>
-        <img src="../public/img-inicio/logo_tecno.png" width="500px" height="120px"> <br><br>
+        <img src="../public/img-inicio/logo_naza.png" width="500px" height="120px"> <br><br>
         <p class=" aviso">INGRESE EL DNI DEL EGRESADO</p>
         <form action="">
             <input required type="number" placeholder="Ingrese el DNI del egresado..." name="txtdni">

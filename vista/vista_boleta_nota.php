@@ -16,7 +16,7 @@ if (!empty($_GET["txtdni"]) and !empty($_GET["txtsemestre"])) {
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="../public/estilos/estilos.css">
-        <link rel="icon" href="../public/inicio/img/logo_tecno.png">
+        <link rel="icon" href="../public/inicio/img/logo_naza.png">
         <title>Consulta Certificado Modular</title>
         </script>
         <style>
@@ -126,7 +126,7 @@ if (!empty($_GET["txtdni"]) and !empty($_GET["txtsemestre"])) {
         <div class="container2">
             <div class="div__logo">
                 <img src="../public/img-inicio/mine.jpg" class="mine" alt="">
-                <img src="../public/img-inicio/logo.jpg" class="logo" alt="">
+                <img src="../public/img-inicio/logo1.jpg" class="logo" alt="">
             </div>
             <h1>INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PÚBLICO "HUANTA"</h1>
             <h2 class="titulo">BOLETA DE INFORMACION DE RENDIMIENTO ACADÉMICO</h2>

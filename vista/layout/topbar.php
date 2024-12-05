@@ -11,7 +11,7 @@
 
 
 
-      <link rel="icon" href="../public/inicio/img/logo_tecno.png">
+      <link rel="icon" href="../public/inicio/img/logo_naza.png">
       <link href="../public/app/publico/css/lib/font-awesome/font-awesome.min.css" rel="stylesheet">
       <link href="../public/bootstrap5/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 

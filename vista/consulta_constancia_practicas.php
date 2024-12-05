@@ -10,7 +10,7 @@ error_reporting(0);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../public/estilos/estilos_consulta.css">
     <link rel="stylesheet" href="../public/estilos/estilos.css">
-    <link rel="icon" href="../public/inicio/img/logo_tecno.png">
+    <link rel="icon" href="../public/inicio/img/logo_naza.png">
     <title>Consulta Constancia Practicas</title>
     <!-- pNotify -->
     <link href="../public/pnotify/css/pnotify.css" rel="stylesheet" />
@@ -41,7 +41,7 @@ error_reporting(0);
         $carrera2 = $conexion->query(" select * from carrera");
         ?>
         <h1>CONSTANCIA PRACTICAS<br>REALICE UNA CONSULTA</h1>
-        <img src="../public/img-inicio/logo_tecno.png" width="500px" height="120px alt=""> <br>
+        <img src="../public/img-inicio/logo_naza.png" width="500px" height="120px alt=""> <br>
     <p class=" aviso">INGRESE EL DNI DEL EGRESADO</p>
         <form action="">
             <input type="number" placeholder="Ingrese el DNI del egresado..." name="txtdni">

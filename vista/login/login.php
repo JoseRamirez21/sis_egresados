@@ -6,7 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
    <link rel="stylesheet" href="css/bootstrap.css">
-   <link rel="icon" href="../../public/inicio/img/logo_tecno.png">
+   <link rel="icon" href="../../public/inicio/img/logo_naza.png">
    <link rel="stylesheet" type="text/css" href="css/style.css">
    <link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
    <!-- <link rel="stylesheet" href="css/all.min.css"> -->
@@ -39,7 +39,7 @@
       </div>
       <div class="login-content">
          <form method="POST" action="">
-            <img src="../../public/img-inicio/logo_tecno.png">
+            <img src="../../public/img-inicio/logo_naza.png">
             <h2 class="title">BIENVENIDO</h2>
             <?php
             include "../../modelo/conexion.php";
